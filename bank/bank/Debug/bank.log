@@ -1,0 +1,3 @@
+﻿  bank.cpp
+C:\Users\pc\source\repos\bank\bank\bank.cpp(23,9): warning C4101: "stankonta1": lokalna zmienna, do której nie istnieje odwołanie
+  bank.vcxproj -> C:\Users\pc\source\repos\bank\Debug\bank.exe
